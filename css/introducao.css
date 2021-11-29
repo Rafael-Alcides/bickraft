@@ -1,0 +1,36 @@
+.introducao-bg {
+  background: #000000;
+}
+
+.introducao {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  color: #ffffff;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.introducao-conteudo {
+  align-self: end;
+  padding-bottom: 120px;
+}
+
+.introducao-conteudo h1 {
+  margin-bottom: 32px;
+  font-size: 64px;
+  line-height: 1.125;
+}
+
+.introducao-conteudo h1 span {
+  color: #ffbb00;
+}
+
+.introducao-conteudo p {
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #b2b2b2;
+}
