@@ -8,7 +8,8 @@
   color: #332200;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: 'Poppins';
+  font-weight: 600;
 }
 
 .botao:hover {
