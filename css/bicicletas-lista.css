@@ -3,10 +3,7 @@
 }
 
 .bicicletas-lista h2 {
-  box-sizing: border-box;
-  padding: 0 20px 40px 20px;
-  max-width: 1200px;
-  margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 .bicicletas-lista ul {
@@ -56,7 +53,7 @@
 
 @media (max-width: 800px) {
   .bicicletas-lista {
-    padding: 60px;
+    padding: 60px 0;
   }
 
   .bicicletas-lista ul {

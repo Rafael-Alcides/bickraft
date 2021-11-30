@@ -8,10 +8,6 @@
   grid-template-columns: 1fr 1fr;
   gap: 40px;
   color: var(--cor-0);
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box;
 }
 
 .introducao-conteudo {
