@@ -37,7 +37,7 @@
   width: 14px;
   height: 6px;
   background: url(../../img/icones/seta-abrir.svg);
-  transition: .4s;
+  transition: .3s;
 }
 
 .perguntas dt:hover::after {
