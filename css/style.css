@@ -4,6 +4,7 @@
 @import "../css/utilidades/tipografia.css";
 @import "../css/utilidades/cores.css";
 @import "../css/utilidades/componentes.css";
+@import "../css/utilidades/formulario.css";
 
 /* Header e Footer */
 @import "../css/global/header.css";
@@ -27,6 +28,10 @@
 /* Biciletas */
 @import "../css/bicicletas/bicicletas-lista.css";
 @import "../css/bicicletas/bicicletas.css";
+
+/* Termos */
+@import "../css/contato/contato.css";
+@import "../css/contato/lojas.css";
 
 /* Termos */
 @import "../css/termos/termos.css";
